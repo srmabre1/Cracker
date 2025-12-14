@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Cracker</title>
+</head>
+<body>
+
+<h2>Cracker</h2>
+
+<div class="omid-element" style="
+  width:300px;
+  height:250px;
+  background:#ddd;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+">
+  Ad / Video Here
+</div>
+
+<script src="omid.js"></script>
+
+</body>
+</html>
